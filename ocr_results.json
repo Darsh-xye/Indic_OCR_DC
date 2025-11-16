@@ -1,0 +1,897 @@
+{
+    "image_1.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "magicbricks",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_1.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_2.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "Ajani",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_2.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_3.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "\u0ae9",
+                "script_language": "GUJARATI"
+            },
+            "polygon_1": {
+                "text": "\u0ae6\u0ae6",
+                "script_language": "GUJARATI"
+            },
+            "polygon_2": {
+                "text": "shot",
+                "script_language": "ENGLISH"
+            },
+            "polygon_3": {
+                "text": "115",
+                "script_language": "PUNJABI"
+            },
+            "polygon_4": {
+                "text": "on",
+                "script_language": "ENGLISH"
+            },
+            "polygon_5": {
+                "text": "vivo",
+                "script_language": "ENGLISH"
+            },
+            "polygon_6": {
+                "text": "al",
+                "script_language": "ENGLISH"
+            },
+            "polygon_7": {
+                "text": "camera",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_3.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_4.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "Kanha",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "Graphics&",
+                "script_language": "GUJARATI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_4.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_5.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "maje",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_5.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_6.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "McDonalds",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "m",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "m",
+                "script_language": "ENGLISH"
+            },
+            "polygon_3": {
+                "text": "McCafe",
+                "script_language": "ENGLISH"
+            },
+            "polygon_4": {
+                "text": "५५",
+                "script_language": "HINDI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_6.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_7.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "PANGHAT",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "PANGHAT",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_7.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_8.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "ડીમાર્ટ",
+                "script_language": "GUJARATI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_8.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_9.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "Jewelry",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_9.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_10.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "Dominos",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "Dominos",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "\u0aa1\u0acb\u0aae\u0ac0\u0aa8\u0acb\u0a9d",
+                "script_language": "GUJARATI"
+            },
+            "polygon_3": {
+                "text": "pizza",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_10.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_11.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "puma",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_11.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_12.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "prasanna",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "manikarta",
+                "script_language": "GUJARATI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_12.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_13.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "running",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "everyday",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_13.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_14.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "westside",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "vestside",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "estside",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_14.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_15.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "unlocked",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_15.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_16.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "\u0ae7",
+                "script_language": "GUJARATI"
+            },
+            "polygon_1": {
+                "text": "airtel",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "payments",
+                "script_language": "ENGLISH"
+            },
+            "polygon_3": {
+                "text": "bank",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_16.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_17.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "westside",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_17.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_18.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "reebok",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "sale",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_18.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_19.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "owestside",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_19.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_20.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "\u0d2a\u0d30\u0d3f\u0d2f",
+                "script_language": "MALAYALAM"
+            },
+            "polygon_1": {
+                "text": "dilic",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_20.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_21.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "zara",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_21.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_22.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_1": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_2": {
+                "text": "basrurkar",
+                "script_language": "ENGLISH"
+            },
+            "polygon_3": {
+                "text": "market",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_22.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_23.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "jockey",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_23.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_24.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "samsonite",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "\u0938\u0945\u092e\u094d\u0938\u094b\u0928\u093e\u0908\u091f",
+                "script_language": "MARATHI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_24.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_25.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "cinemas",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "pvr",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "cinemas",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_25.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_26.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "devasya",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_26.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_27.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "saroj",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_27.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_28.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "\u09e7\u09e9\u09e6",
+                "script_language": "BENGALI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_28.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_29.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "grostore",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_29.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_30.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "sports",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "\u09b6\u09cd\u09b0\u09c0 \u09a4\u09be\u09a7\u09bf\u0995",
+                "script_language": "ASSAMESE"
+            },
+            "polygon_2": {
+                "text": "\u0a2c\u0a70\u0a26\u0a18\u0a3e\u0a17",
+                "script_language": "PUNJABI"
+            },
+            "polygon_3": {
+                "text": "\u0d24\u0d19\u0d4d\u0d15\u0d17\u0d40",
+                "script_language": "MALAYALAM"
+            },
+            "polygon_4": {
+                "text": "\u0a17\u0a40\u0a2c\u0a27\u0a42",
+                "script_language": "PUNJABI"
+            },
+            "polygon_5": {
+                "text": "ground",
+                "script_language": "ENGLISH"
+            },
+            "polygon_6": {
+                "text": "\u0d0e\u0d32\u0d4d\u0d32\u0d3e\u0d35\u0d7c\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4a\u0d2a\u0d4d\u0d2a\u0d02",
+                "script_language": "MALAYALAM"
+            },
+            "polygon_7": {
+                "text": "\u0d2e\u0d24\u0d24\u0d36\u0d4d\u0d36\u0d3f \u0d2e\u0d3e\u0d35\u0d3f",
+                "script_language": "MALAYALAM"
+            },
+            "polygon_8": {
+                "text": "technology",
+                "script_language": "ENGLISH"
+            },
+            "polygon_9": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_10": {
+                "text": "11",
+                "script_language": "PUNJABI"
+            },
+            "polygon_11": {
+                "text": "\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u092e\u092f\u094b\u093d\u0938\u093f",
+                "script_language": "MARATHI"
+            },
+            "polygon_12": {
+                "text": "11",
+                "script_language": "GUJARATI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_30.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_31.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "reves",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "pars",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "\u0ae9\u0aec",
+                "script_language": "GUJARATI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_31.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_32.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "raymond",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_32.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_33.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_1": {
+                "text": "phonepe",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "\u0ae7",
+                "script_language": "GUJARATI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_33.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_34.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "\u0ae8",
+                "script_language": "GUJARATI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_34.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_35.jpeg": {
+        "annotations": {},
+        "url": "NA",
+        "image_name": "image_35.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_36.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "hostels",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "hall",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "\u0be6\u0baa\u0baf\u0bcd\u0b9f\u0bbf",
+                "script_language": "TAMIL"
+            },
+            "polygon_3": {
+                "text": "center",
+                "script_language": "ENGLISH"
+            },
+            "polygon_4": {
+                "text": "health",
+                "script_language": "ENGLISH"
+            },
+            "polygon_5": {
+                "text": "departments",
+                "script_language": "ENGLISH"
+            },
+            "polygon_6": {
+                "text": "\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u092e\u092f\u094b\u093d\u0938\u093f\u0964",
+                "script_language": "MARATHI"
+            },
+            "polygon_7": {
+                "text": "\u0924\u094d\u0935\u0902\u091c\u094d\u091e\u093e\u0928\u092e\u092f",
+                "script_language": "MARATHI"
+            },
+            "polygon_8": {
+                "text": "\u0ad0 \u0aa8\u0aae \u0ab6\u0abf\u0ab5\u0abe\u0aaf",
+                "script_language": "GUJARATI"
+            },
+            "polygon_9": {
+                "text": "grred",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_36.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_37.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "slow",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "down",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "speed",
+                "script_language": "ENGLISH"
+            },
+            "polygon_3": {
+                "text": "limit",
+                "script_language": "ENGLISH"
+            },
+            "polygon_4": {
+                "text": "10",
+                "script_language": "ENGLISH"
+            },
+            "polygon_5": {
+                "text": "kmh",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_37.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_38.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "veg",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "pure",
+                "script_language": "ENGLISH"
+            },
+            "polygon_2": {
+                "text": "100",
+                "script_language": "ENGLISH"
+            },
+            "polygon_3": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_4": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_5": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_6": {
+                "text": "NA",
+                "script_language": "NA"
+            },
+            "polygon_7": {
+                "text": "NA",
+                "script_language": "NA"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_38.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_39.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "\u0ae8",
+                "script_language": "GUJARATI"
+            },
+            "polygon_1": {
+                "text": "contractor",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_39.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_40.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "conaa",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_40.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_41.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "fionaa",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_41.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_42.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": " ",
+                "script_language": "MALAYALAM"
+            },
+            "polygon_1": {
+                "text": "rostaparty",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_42.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_43.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "croma",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_43.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_44.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "luxor",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": "jewelry",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_44.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_45.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "mob",
+                "script_language": "ENGLISH"
+            },
+            "polygon_1": {
+                "text": " ",
+                "script_language": "KANNADA"
+            },
+            "polygon_2": {
+                "text": "9654680956",
+                "script_language": "ENGLISH"
+            },
+            "polygon_3": {
+                "text": "stopp",
+                "script_language": "ENGLISH"
+            },
+            "polygon_4": {
+                "text": "8826573907",
+                "script_language": "ENGLISH"
+            },
+            "polygon_5": {
+                "text": "n",
+                "script_language": "ENGLISH"
+            },
+            "polygon_6": {
+                "text": "shopp",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_45.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_47.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "008035  ",
+                "script_language": "BENGALI"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_47.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_48.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "bookingcom",
+                "script_language": "ENGLISH"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_48.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_49.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "NA",
+                "script_language": "NA"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_49.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "image_50.jpeg": {
+        "annotations": {
+            "polygon_0": {
+                "text": "\u0a85\u0aa8\u0ac1\u0ab6\u0a97",
+                "script_language": "GUJARATI"
+            },
+            "polygon_1": {
+                "text": "\u0d23\u0d4d\u0d23",
+                "script_language": "MALAYALAM"
+            }
+        },
+        "url": "NA",
+        "image_name": "image_50.jpeg",
+        "split": "NA",
+        "folderName": "NA"
+    }
+}
