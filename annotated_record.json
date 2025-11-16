@@ -1,0 +1,2888 @@
+{
+  "image_1": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            279,
+            350
+          ],
+          [
+            1293,
+            350
+          ],
+          [
+            1293,
+            559
+          ],
+          [
+            279,
+            559
+          ]
+        ],
+        "text": "magicbricks",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_1.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_10": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            84,
+            240
+          ],
+          [
+            658,
+            328
+          ],
+          [
+            626,
+            463
+          ],
+          [
+            52,
+            375
+          ]
+        ],
+        "text": "Dominos",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            674,
+            431
+          ],
+          [
+            741,
+            366
+          ],
+          [
+            759,
+            390
+          ],
+          [
+            692,
+            455
+          ]
+        ],
+        "text": "Dominos",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            850,
+            367
+          ],
+          [
+            1261,
+            421
+          ],
+          [
+            1238,
+            533
+          ],
+          [
+            828,
+            480
+          ]
+        ],
+        "text": "ડોમિનોસ",
+        "script_language": "GUJARATI"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            684,
+            442
+          ],
+          [
+            735,
+            408
+          ],
+          [
+            749,
+            432
+          ],
+          [
+            697,
+            466
+          ]
+        ],
+        "text": "Pizza",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_10.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_11": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            97,
+            15
+          ],
+          [
+            518,
+            15
+          ],
+          [
+            518,
+            136
+          ],
+          [
+            97,
+            136
+          ]
+        ],
+        "text": "PUMA",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_11.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_12": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            147,
+            137
+          ],
+          [
+            633,
+            137
+          ],
+          [
+            633,
+            269
+          ],
+          [
+            147,
+            269
+          ]
+        ],
+        "text": "Prasanna",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            362,
+            237
+          ],
+          [
+            903,
+            237
+          ],
+          [
+            903,
+            388
+          ],
+          [
+            362,
+            388
+          ]
+        ],
+        "text": "Manikarta",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_12.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_13": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            148,
+            88
+          ],
+          [
+            464,
+            88
+          ],
+          [
+            464,
+            162
+          ],
+          [
+            148,
+            162
+          ]
+        ],
+        "text": "RUNNING",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            153,
+            159
+          ],
+          [
+            327,
+            159
+          ],
+          [
+            327,
+            199
+          ],
+          [
+            153,
+            199
+          ]
+        ],
+        "text": "EVERYDAY",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            120,
+            746
+          ],
+          [
+            910,
+            746
+          ],
+          [
+            910,
+            1420
+          ],
+          [
+            120,
+            1420
+          ]
+        ],
+        "text": "",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_13.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_14": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            148,
+            180
+          ],
+          [
+            226,
+            180
+          ],
+          [
+            226,
+            206
+          ],
+          [
+            148,
+            206
+          ]
+        ],
+        "text": "ESTSIDE",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            303,
+            191
+          ],
+          [
+            351,
+            191
+          ],
+          [
+            351,
+            207
+          ],
+          [
+            303,
+            207
+          ]
+        ],
+        "text": "Westside",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            258,
+            78
+          ],
+          [
+            395,
+            100
+          ],
+          [
+            386,
+            142
+          ],
+          [
+            249,
+            120
+          ]
+        ],
+        "text": "ESTSIDE",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_14.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_15": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            106,
+            52
+          ],
+          [
+            768,
+            52
+          ],
+          [
+            768,
+            324
+          ],
+          [
+            106,
+            324
+          ]
+        ],
+        "text": "UNLOCKED",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_15.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_16": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            133,
+            213
+          ],
+          [
+            331,
+            213
+          ],
+          [
+            331,
+            310
+          ],
+          [
+            133,
+            310
+          ]
+        ],
+        "text": "airtel",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            137,
+            288
+          ],
+          [
+            325,
+            288
+          ],
+          [
+            325,
+            350
+          ],
+          [
+            137,
+            350
+          ]
+        ],
+        "text": "Payments",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            140,
+            334
+          ],
+          [
+            242,
+            334
+          ],
+          [
+            242,
+            379
+          ],
+          [
+            140,
+            379
+          ]
+        ],
+        "text": "Bank",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_16.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_17": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            411,
+            13
+          ],
+          [
+            688,
+            133
+          ],
+          [
+            644,
+            226
+          ],
+          [
+            367,
+            105
+          ]
+        ],
+        "text": "WESTSIDE",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_17.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_18": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            7,
+            12
+          ],
+          [
+            424,
+            12
+          ],
+          [
+            424,
+            135
+          ],
+          [
+            7,
+            135
+          ]
+        ],
+        "text": "Reebok",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            132,
+            172
+          ],
+          [
+            178,
+            172
+          ],
+          [
+            178,
+            204
+          ],
+          [
+            132,
+            204
+          ]
+        ],
+        "text": "SALE",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_18.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_19": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            446,
+            112
+          ],
+          [
+            799,
+            112
+          ],
+          [
+            799,
+            196
+          ],
+          [
+            446,
+            196
+          ]
+        ],
+        "text": "ESTSIDE",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            343,
+            65
+          ],
+          [
+            468,
+            88
+          ],
+          [
+            447,
+            189
+          ],
+          [
+            321,
+            166
+          ]
+        ],
+        "text": "W",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_19.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_2": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            43,
+            105
+          ],
+          [
+            690,
+            105
+          ],
+          [
+            690,
+            345
+          ],
+          [
+            43,
+            345
+          ]
+        ],
+        "text": "Ajani",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_2.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_20": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            659,
+            747
+          ],
+          [
+            703,
+            747
+          ],
+          [
+            703,
+            765
+          ],
+          [
+            659,
+            765
+          ]
+        ],
+        "text": "ZUDIO",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            138,
+            329
+          ],
+          [
+            560,
+            283
+          ],
+          [
+            569,
+            551
+          ],
+          [
+            147,
+            597
+          ]
+        ],
+        "text": "ZDO",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_20.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_21": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            245,
+            32
+          ],
+          [
+            452,
+            32
+          ],
+          [
+            452,
+            107
+          ],
+          [
+            245,
+            107
+          ]
+        ],
+        "text": "ZARA",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_21.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_22": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            74,
+            142
+          ],
+          [
+            182,
+            142
+          ],
+          [
+            182,
+            166
+          ],
+          [
+            74,
+            166
+          ]
+        ],
+        "text": "बसरुरकर",
+        "script_language": "HINDI"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            87,
+            163
+          ],
+          [
+            169,
+            163
+          ],
+          [
+            169,
+            199
+          ],
+          [
+            87,
+            199
+          ]
+        ],
+        "text": "मार्किट",
+        "script_language": "HINDI"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            52,
+            198
+          ],
+          [
+            206,
+            198
+          ],
+          [
+            206,
+            228
+          ],
+          [
+            52,
+            228
+          ]
+        ],
+        "text": "BASRURKAR",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            75,
+            226
+          ],
+          [
+            179,
+            226
+          ],
+          [
+            179,
+            254
+          ],
+          [
+            75,
+            254
+          ]
+        ],
+        "text": "MARKET",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_22.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_23": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            161,
+            35
+          ],
+          [
+            603,
+            35
+          ],
+          [
+            603,
+            127
+          ],
+          [
+            161,
+            127
+          ]
+        ],
+        "text": "JOCKEY",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            153,
+            287
+          ],
+          [
+            205,
+            287
+          ],
+          [
+            205,
+            301
+          ],
+          [
+            153,
+            301
+          ]
+        ],
+        "text": "JOCKEY",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_23.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_24": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            117,
+            56
+          ],
+          [
+            1052,
+            214
+          ],
+          [
+            1006,
+            397
+          ],
+          [
+            71,
+            240
+          ]
+        ],
+        "text": "Samsonite",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            885,
+            353
+          ],
+          [
+            1009,
+            367
+          ],
+          [
+            1000,
+            415
+          ],
+          [
+            877,
+            400
+          ]
+        ],
+        "text": "सॅम्सोनाईट",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_24.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_25": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            143,
+            185
+          ],
+          [
+            517,
+            185
+          ],
+          [
+            517,
+            437
+          ],
+          [
+            143,
+            437
+          ]
+        ],
+        "text": "PVR",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            160,
+            433
+          ],
+          [
+            505,
+            433
+          ],
+          [
+            505,
+            531
+          ],
+          [
+            160,
+            531
+          ]
+        ],
+        "text": "CINEMAS",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            734,
+            211
+          ],
+          [
+            816,
+            232
+          ],
+          [
+            806,
+            266
+          ],
+          [
+            724,
+            245
+          ]
+        ],
+        "text": "CNEMAS",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_25.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_26": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            84,
+            5
+          ],
+          [
+            601,
+            104
+          ],
+          [
+            565,
+            240
+          ],
+          [
+            48,
+            141
+          ]
+        ],
+        "text": "DEVASYA",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_26.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_27": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            184,
+            109
+          ],
+          [
+            947,
+            109
+          ],
+          [
+            947,
+            433
+          ],
+          [
+            184,
+            433
+          ]
+        ],
+        "text": "SAROJ",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_27.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_28": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            55,
+            256
+          ],
+          [
+            379,
+            -17
+          ],
+          [
+            458,
+            112
+          ],
+          [
+            133,
+            387
+          ]
+        ],
+        "text": "ANGO",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_28.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_29": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            25,
+            159
+          ],
+          [
+            499,
+            159
+          ],
+          [
+            499,
+            267
+          ],
+          [
+            25,
+            267
+          ]
+        ],
+        "text": "Grostore",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_29.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_3": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            161,
+            829
+          ],
+          [
+            307,
+            829
+          ],
+          [
+            307,
+            849
+          ],
+          [
+            161,
+            849
+          ]
+        ],
+        "text": "ShotonY15",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            63,
+            831
+          ],
+          [
+            153,
+            831
+          ],
+          [
+            153,
+            875
+          ],
+          [
+            63,
+            875
+          ]
+        ],
+        "text": "00",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            160,
+            852
+          ],
+          [
+            340,
+            852
+          ],
+          [
+            340,
+            878
+          ],
+          [
+            160,
+            878
+          ]
+        ],
+        "text": "Vivo Al camera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            136,
+            407
+          ],
+          [
+            1002,
+            191
+          ],
+          [
+            1056,
+            538
+          ],
+          [
+            190,
+            754
+          ]
+        ],
+        "text": "JUICE",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_3.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_30": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            592,
+            179
+          ],
+          [
+            963,
+            179
+          ],
+          [
+            963,
+            270
+          ],
+          [
+            592,
+            270
+          ]
+        ],
+        "text": "SPORTS",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            570,
+            279
+          ],
+          [
+            993,
+            279
+          ],
+          [
+            993,
+            378
+          ],
+          [
+            570,
+            378
+          ]
+        ],
+        "text": "GROUND",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            260,
+            492
+          ],
+          [
+            288,
+            492
+          ],
+          [
+            288,
+            516
+          ],
+          [
+            260,
+            516
+          ]
+        ],
+        "text": "Of",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            162,
+            540
+          ],
+          [
+            210,
+            540
+          ],
+          [
+            210,
+            564
+          ],
+          [
+            162,
+            564
+          ]
+        ],
+        "text": "त्व",
+        "script_language": "HINDI"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            208,
+            536
+          ],
+          [
+            431,
+            536
+          ],
+          [
+            431,
+            586
+          ],
+          [
+            208,
+            586
+          ]
+        ],
+        "text": "ज्ञानमयों विज्ञानमयोङसि",
+        "script_language": "HINDI"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [
+            177,
+            245
+          ],
+          [
+            280,
+            205
+          ],
+          [
+            295,
+            244
+          ],
+          [
+            192,
+            284
+          ]
+        ],
+        "text": "व्रौद्योगिकी",
+        "script_language": "HINDI"
+      },
+      "polygon_6": {
+        "coordinates": [
+          [
+            304,
+            220
+          ],
+          [
+            381,
+            264
+          ],
+          [
+            365,
+            292
+          ],
+          [
+            287,
+            248
+          ]
+        ],
+        "text": "संस्थान",
+        "script_language": "HINDI"
+      },
+      "polygon_7": {
+        "coordinates": [
+          [
+            169,
+            270
+          ],
+          [
+            196,
+            277
+          ],
+          [
+            172,
+            365
+          ],
+          [
+            145,
+            358
+          ]
+        ],
+        "text": "&ँ",
+        "script_language": "HINDI"
+      },
+      "polygon_8": {
+        "coordinates": [
+          [
+            370,
+            290
+          ],
+          [
+            397,
+            283
+          ],
+          [
+            422,
+            368
+          ],
+          [
+            395,
+            376
+          ]
+        ],
+        "text": "$ै",
+        "script_language": "HINDI"
+      },
+      "polygon_9": {
+        "coordinates": [
+          [
+            152,
+            382
+          ],
+          [
+            173,
+            375
+          ],
+          [
+            199,
+            445
+          ],
+          [
+            178,
+            452
+          ]
+        ],
+        "text": "ड्ठ",
+        "script_language": "HINDI"
+      },
+      "polygon_10": {
+        "coordinates": [
+          [
+            404,
+            383
+          ],
+          [
+            429,
+            390
+          ],
+          [
+            399,
+            481
+          ],
+          [
+            374,
+            473
+          ]
+        ],
+        "text": "ड्ै",
+        "script_language": "HINDI"
+      },
+      "polygon_11": {
+        "coordinates": [
+          [
+            194,
+            434
+          ],
+          [
+            270,
+            494
+          ],
+          [
+            251,
+            518
+          ],
+          [
+            176,
+            458
+          ]
+        ],
+        "text": "Institute",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "coordinates": [
+          [
+            276,
+            497
+          ],
+          [
+            389,
+            463
+          ],
+          [
+            399,
+            499
+          ],
+          [
+            286,
+            532
+          ]
+        ],
+        "text": "Technology",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_30.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_31": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            341,
+            646
+          ],
+          [
+            930,
+            646
+          ],
+          [
+            930,
+            842
+          ],
+          [
+            341,
+            842
+          ]
+        ],
+        "text": "reves",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_31.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_32": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            488,
+            511
+          ],
+          [
+            1117,
+            511
+          ],
+          [
+            1117,
+            698
+          ],
+          [
+            488,
+            698
+          ]
+        ],
+        "text": "Raymond",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_32.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_33": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            487,
+            415
+          ],
+          [
+            688,
+            415
+          ],
+          [
+            688,
+            479
+          ],
+          [
+            487,
+            479
+          ]
+        ],
+        "text": "PhonePe",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            543,
+            529
+          ],
+          [
+            641,
+            529
+          ],
+          [
+            641,
+            994
+          ],
+          [
+            543,
+            994
+          ]
+        ],
+        "text": "PULL",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_33.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_34": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            263,
+            697
+          ],
+          [
+            475,
+            697
+          ],
+          [
+            475,
+            993
+          ],
+          [
+            263,
+            993
+          ]
+        ],
+        "text": "P",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_34.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_35": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            79,
+            367
+          ],
+          [
+            1035,
+            367
+          ],
+          [
+            1035,
+            691
+          ],
+          [
+            79,
+            691
+          ]
+        ],
+        "text": "YOL",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_35.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_36": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            627,
+            201
+          ],
+          [
+            753,
+            201
+          ],
+          [
+            753,
+            243
+          ],
+          [
+            627,
+            243
+          ]
+        ],
+        "text": "Hostels",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            624,
+            252
+          ],
+          [
+            814,
+            252
+          ],
+          [
+            814,
+            306
+          ],
+          [
+            624,
+            306
+          ]
+        ],
+        "text": "Dining Hall",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            622,
+            314
+          ],
+          [
+            870,
+            314
+          ],
+          [
+            870,
+            368
+          ],
+          [
+            622,
+            368
+          ]
+        ],
+        "text": "Health Center",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            350,
+            403
+          ],
+          [
+            498,
+            403
+          ],
+          [
+            498,
+            428
+          ],
+          [
+            350,
+            428
+          ]
+        ],
+        "text": "ज्ञानगयातनिज्ञानमयरनि",
+        "script_language": "HINDI"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            627,
+            387
+          ],
+          [
+            862,
+            387
+          ],
+          [
+            862,
+            442
+          ],
+          [
+            627,
+            442
+          ]
+        ],
+        "text": "Departments",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [
+            386,
+            383
+          ],
+          [
+            456,
+            369
+          ],
+          [
+            459,
+            387
+          ],
+          [
+            389,
+            401
+          ]
+        ],
+        "text": "of Teahnology",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_36.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_37": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            354,
+            43
+          ],
+          [
+            1027,
+            43
+          ],
+          [
+            1027,
+            295
+          ],
+          [
+            354,
+            295
+          ]
+        ],
+        "text": "SLOW",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            318,
+            278
+          ],
+          [
+            1044,
+            278
+          ],
+          [
+            1044,
+            536
+          ],
+          [
+            318,
+            536
+          ]
+        ],
+        "text": "DOWN",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            329,
+            559
+          ],
+          [
+            1018,
+            559
+          ],
+          [
+            1018,
+            686
+          ],
+          [
+            329,
+            686
+          ]
+        ],
+        "text": "SPEED LIMIT",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            400,
+            680
+          ],
+          [
+            932,
+            680
+          ],
+          [
+            932,
+            830
+          ],
+          [
+            400,
+            830
+          ]
+        ],
+        "text": "10 kmlh",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_37.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_38": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            343,
+            180
+          ],
+          [
+            481,
+            180
+          ],
+          [
+            481,
+            217
+          ],
+          [
+            343,
+            217
+          ]
+        ],
+        "text": "100% PUiE VEG",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            409,
+            447
+          ],
+          [
+            945,
+            447
+          ],
+          [
+            945,
+            727
+          ],
+          [
+            409,
+            727
+          ]
+        ],
+        "text": "कुलच",
+        "script_language": "HINDI"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            456,
+            722
+          ],
+          [
+            940,
+            722
+          ],
+          [
+            940,
+            820
+          ],
+          [
+            456,
+            820
+          ]
+        ],
+        "text": "स्वाद पंजाब का .०.",
+        "script_language": "HINDI"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            449,
+            267
+          ],
+          [
+            951,
+            204
+          ],
+          [
+            958,
+            400
+          ],
+          [
+            457,
+            464
+          ]
+        ],
+        "text": "अमृतसरी",
+        "script_language": "HINDI"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_38.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_39": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            93,
+            270
+          ],
+          [
+            1160,
+            270
+          ],
+          [
+            1160,
+            559
+          ],
+          [
+            93,
+            559
+          ]
+        ],
+        "text": "RAMA",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            151,
+            545
+          ],
+          [
+            1132,
+            545
+          ],
+          [
+            1132,
+            672
+          ],
+          [
+            151,
+            672
+          ]
+        ],
+        "text": "CONTRACTOR",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_39.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_4": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            467,
+            257
+          ],
+          [
+            1413,
+            257
+          ],
+          [
+            1413,
+            629
+          ],
+          [
+            467,
+            629
+          ]
+        ],
+        "text": "Kanha",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            154,
+            646
+          ],
+          [
+            1380,
+            646
+          ],
+          [
+            1380,
+            942
+          ],
+          [
+            154,
+            942
+          ]
+        ],
+        "text": "Graphics&",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_4.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_40": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            172,
+            86
+          ],
+          [
+            1146,
+            86
+          ],
+          [
+            1146,
+            470
+          ],
+          [
+            172,
+            470
+          ]
+        ],
+        "text": "Fionaa",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_40.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_41": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            139,
+            639
+          ],
+          [
+            1054,
+            639
+          ],
+          [
+            1054,
+            992
+          ],
+          [
+            139,
+            992
+          ]
+        ],
+        "text": "fionaa",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_41.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_42": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            84,
+            405
+          ],
+          [
+            976,
+            405
+          ],
+          [
+            976,
+            615
+          ],
+          [
+            84,
+            615
+          ]
+        ],
+        "text": "COSSROADS",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            850,
+            916
+          ],
+          [
+            967,
+            916
+          ],
+          [
+            967,
+            952
+          ],
+          [
+            850,
+            952
+          ]
+        ],
+        "text": "CROSSROADS",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            747,
+            1048
+          ],
+          [
+            817,
+            1079
+          ],
+          [
+            799,
+            1118
+          ],
+          [
+            729,
+            1087
+          ]
+        ],
+        "text": "PARTY",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_42.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_43": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            192,
+            38
+          ],
+          [
+            550,
+            38
+          ],
+          [
+            550,
+            134
+          ],
+          [
+            192,
+            134
+          ]
+        ],
+        "text": "croma",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_43.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_44": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            27,
+            33
+          ],
+          [
+            203,
+            33
+          ],
+          [
+            203,
+            94
+          ],
+          [
+            27,
+            94
+          ]
+        ],
+        "text": "LUXOR",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            36,
+            88
+          ],
+          [
+            193,
+            88
+          ],
+          [
+            193,
+            131
+          ],
+          [
+            36,
+            131
+          ]
+        ],
+        "text": "JEWELRY",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_44.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_45": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            629,
+            474
+          ],
+          [
+            886,
+            474
+          ],
+          [
+            886,
+            519
+          ],
+          [
+            629,
+            519
+          ]
+        ],
+        "text": "Mob : 9654680956",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            179,
+            479
+          ],
+          [
+            490,
+            479
+          ],
+          [
+            490,
+            566
+          ],
+          [
+            179,
+            566
+          ]
+        ],
+        "text": "STOPP",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            711,
+            506
+          ],
+          [
+            887,
+            506
+          ],
+          [
+            887,
+            546
+          ],
+          [
+            711,
+            546
+          ]
+        ],
+        "text": "8826573907",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            419,
+            558
+          ],
+          [
+            551,
+            558
+          ],
+          [
+            551,
+            634
+          ],
+          [
+            419,
+            634
+          ]
+        ],
+        "text": "N",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            481,
+            629
+          ],
+          [
+            849,
+            629
+          ],
+          [
+            849,
+            740
+          ],
+          [
+            481,
+            740
+          ]
+        ],
+        "text": "SHOPP",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_45.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_46": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            234,
+            506
+          ],
+          [
+            1795,
+            506
+          ],
+          [
+            1795,
+            1016
+          ],
+          [
+            234,
+            1016
+          ]
+        ],
+        "text": "SUPER",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_46.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_47": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            -22,
+            408
+          ],
+          [
+            994,
+            295
+          ],
+          [
+            999,
+            615
+          ],
+          [
+            -18,
+            727
+          ]
+        ],
+        "text": "broadcast",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_47.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_48": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            98,
+            348
+          ],
+          [
+            850,
+            348
+          ],
+          [
+            850,
+            535
+          ],
+          [
+            98,
+            535
+          ]
+        ],
+        "text": "Booking.com",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_48.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_49": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            43,
+            62
+          ],
+          [
+            476,
+            62
+          ],
+          [
+            476,
+            233
+          ],
+          [
+            43,
+            233
+          ]
+        ],
+        "text": "odhani",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_49.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_5": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            22,
+            61
+          ],
+          [
+            767,
+            1
+          ],
+          [
+            767,
+            408
+          ],
+          [
+            23,
+            468
+          ]
+        ],
+        "text": "maje",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_5.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_6": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            21,
+            0
+          ],
+          [
+            621,
+            0
+          ],
+          [
+            621,
+            119
+          ],
+          [
+            21,
+            119
+          ]
+        ],
+        "text": "McDonalds",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            384,
+            216
+          ],
+          [
+            466,
+            216
+          ],
+          [
+            466,
+            296
+          ],
+          [
+            384,
+            296
+          ]
+        ],
+        "text": "M",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            439,
+            393
+          ],
+          [
+            547,
+            393
+          ],
+          [
+            547,
+            505
+          ],
+          [
+            439,
+            505
+          ]
+        ],
+        "text": "M",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            644,
+            1
+          ],
+          [
+            681,
+            -1
+          ],
+          [
+            682,
+            9
+          ],
+          [
+            645,
+            13
+          ]
+        ],
+        "text": "McCafe",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            -6,
+            432
+          ],
+          [
+            194,
+            414
+          ],
+          [
+            195,
+            515
+          ],
+          [
+            -6,
+            533
+          ]
+        ],
+        "text": "oo",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_6.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_7": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            520,
+            0
+          ],
+          [
+            800,
+            0
+          ],
+          [
+            800,
+            68
+          ],
+          [
+            520,
+            68
+          ]
+        ],
+        "text": "PANGHAT",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            887,
+            383
+          ],
+          [
+            1023,
+            383
+          ],
+          [
+            1023,
+            427
+          ],
+          [
+            887,
+            427
+          ]
+        ],
+        "text": "PANGHAT",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_7.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_8": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            301,
+            199
+          ],
+          [
+            730,
+            199
+          ],
+          [
+            730,
+            316
+          ],
+          [
+            301,
+            316
+          ]
+        ],
+        "text": "ડીમાર્ટ",
+        "script_language": "GUJARATI"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_8.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_9": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            402,
+            356
+          ],
+          [
+            862,
+            356
+          ],
+          [
+            862,
+            698
+          ],
+          [
+            402,
+            698
+          ]
+        ],
+        "text": "LNI",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            391,
+            599
+          ],
+          [
+            1346,
+            599
+          ],
+          [
+            1346,
+            995
+          ],
+          [
+            391,
+            995
+          ]
+        ],
+        "text": "Jewelry",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_9.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  },
+  "image_50": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            36,
+            58
+          ],
+          [
+            170,
+            58
+          ],
+          [
+            170,
+            158
+          ],
+          [
+            36,
+            158
+          ]
+        ],
+        "text": "A",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            221,
+            33
+          ],
+          [
+            748,
+            33
+          ],
+          [
+            748,
+            183
+          ],
+          [
+            221,
+            183
+          ]
+        ],
+        "text": "અનુરાગ",
+        "script_language": "GUJARATI"
+      }
+    },
+    "url": "NA",
+    "image_name": "image_50.jpeg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}
